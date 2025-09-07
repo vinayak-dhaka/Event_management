@@ -32,3 +32,8 @@ The **Event Management** application is a full-stack web app designed to manage 
 ### Ai Conversation Log
 <img width="1010" height="805" alt="Screenshot 2025-09-07 at 12 28 48 PM" src="https://github.com/user-attachments/assets/41457411-106a-4fe7-bbe4-195aa571f77c" />
 
+### Backend IDE Visual
+<img width="1455" height="901" alt="image" src="https://github.com/user-attachments/assets/c80b52f3-382f-4302-b2aa-3db34ee9bab0" />
+
+###FrontEnd Project Structure
+<img width="1455" height="901" alt="Screenshot 2025-09-07 at 2 53 10 PM" src="https://github.com/user-attachments/assets/4e8a5196-30e6-4836-8974-6b9631fea3cb" />
