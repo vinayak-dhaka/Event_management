@@ -35,5 +35,11 @@ The **Event Management** application is a full-stack web app designed to manage 
 ### Backend IDE Visual
 <img width="1455" height="901" alt="image" src="https://github.com/user-attachments/assets/c80b52f3-382f-4302-b2aa-3db34ee9bab0" />
 
-###FrontEnd Project Structure
+### FrontEnd Project Structure
 <img width="1455" height="901" alt="Screenshot 2025-09-07 at 2 53 10 PM" src="https://github.com/user-attachments/assets/4e8a5196-30e6-4836-8974-6b9631fea3cb" />
+
+### ER Diagram 
+<img width="1024" height="1536" alt="ER_DIagram" src="https://github.com/user-attachments/assets/98d22cca-f35d-427d-bca3-d877808a61f2" />
+
+### Postman Api Testing 
+<img width="1455" height="901" alt="Screenshot 2025-09-07 at 3 09 21 PM" src="https://github.com/user-attachments/assets/fca5f8ea-5cb4-40d2-b767-f3a447b3d052" />
