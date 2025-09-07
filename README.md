@@ -3,7 +3,8 @@
 ## Overview
 The **Event Management** application is a full-stack web app designed to manage colleges, students, and events efficiently. Users can register students, create events, and track registrations. It includes features such as attendance management, reports, and event popularity statistics.
 
----### Frontend UI
+---
+### Frontend UI
 <img width="1229" height="814" alt="image" src="https://github.com/user-attachments/assets/264545b1-c1f9-4d6a-b056-e8c44ed80e9c" />
 
 ---
